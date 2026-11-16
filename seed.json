@@ -1,0 +1,209 @@
+{
+  "roles": [
+    {
+      "title": "Data Analyst",
+      "description": "Examine data and communicate actionable findings",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Data Visualization",
+        "Statistics"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "description": "Build and maintain reliable applications",
+      "skills": [
+        "Python",
+        "Git",
+        "Testing",
+        "APIs",
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Assess security risks and investigate threats",
+      "skills": [
+        "Network Security",
+        "Threat Analysis",
+        "Incident Response",
+        "Security Monitoring",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "description": "Coordinate project delivery and stakeholders",
+      "skills": [
+        "Project Planning",
+        "Stakeholder Communication",
+        "Risk Management",
+        "Agile",
+        "Budgeting"
+      ]
+    },
+    {
+      "title": "UX Designer",
+      "description": "Design and evaluate accessible user experiences",
+      "skills": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing",
+        "Accessibility"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "title": "SQL Foundations",
+      "description": "Query and filter relational data",
+      "skills": [
+        "SQL"
+      ]
+    },
+    {
+      "title": "Excel for Analysis",
+      "description": "Practice spreadsheet analysis techniques",
+      "skills": [
+        "Excel"
+      ]
+    },
+    {
+      "title": "Python for Data Work",
+      "description": "Work with Python data structures and libraries",
+      "skills": [
+        "Python",
+        "Statistics"
+      ]
+    },
+    {
+      "title": "Building Dashboards",
+      "description": "Present insights with visual reporting",
+      "skills": [
+        "Data Visualization"
+      ]
+    },
+    {
+      "title": "Practical Statistics",
+      "description": "Analyze data and summarize variation",
+      "skills": [
+        "Statistics"
+      ]
+    },
+    {
+      "title": "Git Version Control",
+      "description": "Track code changes and team collaboration",
+      "skills": [
+        "Git"
+      ]
+    },
+    {
+      "title": "Programming with Objects",
+      "description": "Learn object-oriented concepts",
+      "skills": [
+        "Object-Oriented Programming",
+        "Python"
+      ]
+    },
+    {
+      "title": "Software Testing Basics",
+      "description": "Design automated and manual tests",
+      "skills": [
+        "Testing"
+      ]
+    },
+    {
+      "title": "REST API Fundamentals",
+      "description": "Understand API requests and responses",
+      "skills": [
+        "APIs"
+      ]
+    },
+    {
+      "title": "Secure Networking Essentials",
+      "description": "Review defensive network practices",
+      "skills": [
+        "Network Security"
+      ]
+    },
+    {
+      "title": "Threat Analysis Workshop",
+      "description": "Review indicators and threats",
+      "skills": [
+        "Threat Analysis"
+      ]
+    },
+    {
+      "title": "Incident Response Fundamentals",
+      "description": "Learn incident handling steps",
+      "skills": [
+        "Incident Response"
+      ]
+    },
+    {
+      "title": "Security Monitoring Lab",
+      "description": "Practice alert review and logging concepts",
+      "skills": [
+        "Security Monitoring",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "title": "Managing Project Risk",
+      "description": "Identify and prioritize project risks",
+      "skills": [
+        "Risk Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "title": "Agile Project Delivery",
+      "description": "Learn iterative planning techniques",
+      "skills": [
+        "Agile",
+        "Project Planning"
+      ]
+    },
+    {
+      "title": "Stakeholder Communication",
+      "description": "Plan effective project communications",
+      "skills": [
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "title": "Budgeting for Projects",
+      "description": "Estimate and monitor project costs",
+      "skills": [
+        "Budgeting"
+      ]
+    },
+    {
+      "title": "User Research Methods",
+      "description": "Design interviews and research activities",
+      "skills": [
+        "User Research",
+        "Usability Testing"
+      ]
+    },
+    {
+      "title": "Wireframes and Prototypes",
+      "description": "Turn product concepts into interface sketches",
+      "skills": [
+        "Wireframing",
+        "Prototyping"
+      ]
+    },
+    {
+      "title": "Accessible Interface Design",
+      "description": "Understand accessible interface principles",
+      "skills": [
+        "Accessibility",
+        "Usability Testing"
+      ]
+    }
+  ]
+}
